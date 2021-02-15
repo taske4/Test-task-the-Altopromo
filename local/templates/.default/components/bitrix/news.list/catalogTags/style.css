@@ -1,0 +1,9 @@
+.news-list {
+    margin: 2em 0;
+    padding: .5em;
+    background: #EEE;
+}
+
+.news-list .news-item {
+    padding: .5em;
+}
